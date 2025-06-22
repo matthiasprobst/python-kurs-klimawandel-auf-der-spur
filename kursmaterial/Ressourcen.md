@@ -3,12 +3,12 @@
 ## Datenquellen
 
 | Quelle                                                                                                             | Beschreibung                                                              |
-|:-------------------------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------|
+|:-------------------------------------------------------------------------------------------------------------------|:--------------------------------------------------------------------------|
 | [Umwelt Bundesamt](https://www.umweltbundesamt.de/daten)                                                           | Aktuelle Daten, Trends und Bewertungen zur Umweltsituation in Deutschland |
-| [Klimadaten der NASA](https://climate.nasa.gov/vital-signs/)                                                       | Vitaldaten weltweit |
-| [Open Data Portal](https://www.govdata.de/)                                                                        | Offene Daten der deutschen Bundesregierung |
-| [Deutscher Wetterdienst (DWD)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klimadatendeutschland.html)  | Klimadaten und -berichte für Deutschland                                                |
-
+| [Klimadaten der NASA](https://climate.nasa.gov/vital-signs/)                                                       | Vitaldaten weltweit                                                       |
+| [Open Data Portal](https://www.govdata.de/)                                                                        | Offene Daten der deutschen Bundesregierung                                |
+| [Deutscher Wetterdienst (DWD)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klimadatendeutschland.html)  | Klimadaten und -berichte für Deutschland                                  |
+| [Open Data Bereich des Climate Data Center](https://www.dwd.de/DE/leistungen/cdc/climate-data-center.html?nn=17626) | Freier Zugang zu vielen Klimadaten des Climate Data Centers (CDC) des DWD, insbesondere zur weiteren Verarbeitung.                                                                          |
 
 ## Klimaberichte und Studien
 | Quelle                                                                                                                       | Beschreibung                                                                            |
