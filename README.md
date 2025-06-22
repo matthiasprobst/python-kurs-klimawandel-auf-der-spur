@@ -1,6 +1,11 @@
 # Python-Kurs: Dem Klimawandel auf der Spur - Nachhaltige Zukunft programmieren
 
-In diesem Kurs tauchst du in die Welt der Daten und des Programmierens ein – mit dem Ziel, spannende Fakten über den
+> Der Treibhauseffekt wurde 1824 von dem französischen Mathematiker und Physiker Joseph Fourier
+entdeckt, verbunden mit der Annahme, dass die Erdatmosphäre isolierende Eigenschaften besitzt,
+die einen Teil der einfallenden Wärmestrahlung daran hindert, in den Weltraum reflektiert zu
+werden. [Wikipedia: Treibhauseffekt](https://de.wikipedia.org/wiki/Treibhauseffekt)
+
+In diesem Kurs tauchst du in die Welt der Daten und des Programmierens ein - mit dem Ziel, spannende Fakten über den
 Klimawandel zu entdecken. Egal, ob du noch nie programmiert hast oder schon ein wenig Erfahrung mitbringst: Hier lernst
 du Schritt für Schritt, wie du mit Python Umweltdaten analysierst, Diagramme erstellst und interaktive Visualisierungen
 programmierst.

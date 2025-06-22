@@ -9,6 +9,7 @@
 | [Open Data Portal](https://www.govdata.de/)                                                                        | Offene Daten der deutschen Bundesregierung                                |
 | [Deutscher Wetterdienst (DWD)](https://www.dwd.de/DE/leistungen/klimadatendeutschland/klimadatendeutschland.html)  | Klimadaten und -berichte für Deutschland                                  |
 | [Open Data Bereich des Climate Data Center](https://www.dwd.de/DE/leistungen/cdc/climate-data-center.html?nn=17626) | Freier Zugang zu vielen Klimadaten des Climate Data Centers (CDC) des DWD, insbesondere zur weiteren Verarbeitung.                                                                          |
+| [berkeleyearth](https://berkeleyearth.org/data/)                                                                 | Daten zu globalen Temperaturen, CO₂-Emissionen und anderen Klimafaktoren   |
 
 ## Klimaberichte und Studien
 | Quelle                                                                                                                       | Beschreibung                                                                            |
