@@ -39,3 +39,4 @@ Hierzu befolge die Schritte in Anweisungen in [INSTALLATION.md](INSTALLATION.md)
 ℹ️ Alle Kursinhalte findest du im Ordner `kursmaterial/`.
 
 [Hier geht es zum Jupyter Notebook mit dem Inhalt des Kurses](kursmaterial/Inhaltsverzeichnis.ipynb).
+Ressourcen und weitere Informationen findest du in der Datei [Ressourcen.md](kursmaterial/Ressourcen.md).
