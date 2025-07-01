@@ -28,6 +28,9 @@ ausführen, ohne etwas installieren zu müssen. Eine gute Einführung findest du
 der [Jupyter Notebooks Dokumentation](https://jupyter.org/documentation).
 
 ℹ️ als **KursteilnehmerIn** kannst du nun direkt zu den [Kursinhalten](#kursinhalte) springen.
+Google Colab ist eine beliebte Plattform, um Jupyter Notebooks online auszuführen. Du kannst den Kurs
+auch direkt in Google Colab starten, ohne etwas installieren zu müssen. Folge dazu diesem Link:
+[![Open Quickstart Notebook](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/matthiasprobst/python-kurs-klimawandel-auf-der-spur/blob/main/kursmaterial/Inhaltsverzeichnis.ipynb)
 
 Als **KursleiterIn** oder als **AdministratorIn** solltest du zunächst sicherstellen, dass die richtige Pythonversion
 und die benötigten Pakete installiert sind.
