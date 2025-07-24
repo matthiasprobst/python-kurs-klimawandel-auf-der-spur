@@ -15,6 +15,7 @@ Was erwartet dich?
 - Einführung in die Programmiersprache Python
 - Arbeiten mit echten Klimadaten (Temperaturen, CO₂-Emissionen, Wetterphänomene)
 - Erstellen von Diagrammen und interaktiven Anwendungen
+- Erstellen einer kleinen Webanwendung mit `streamlit`
 
 Am Ende des Kurses hast du ein besseres Verständnis dafür, wie Daten dabei helfen, den Klimawandel zu erforschen.
 
